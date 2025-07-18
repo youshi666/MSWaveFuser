@@ -4,7 +4,7 @@ MSWaveFuser: A Multi-Scale Wavelet Feature Fusion Network for Lithium Battery St
 
 ## Overall structure of the SOH estimation framework.
 
-![](D:\小论文\MSWaveFuser\figures\MSWaveFuser.png)
+![](https://github.com/youshi666/MSWaveFuser/blob/main/figures/MSWaveFuser.png?raw=true)
 
 
 
