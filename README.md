@@ -10,15 +10,15 @@ MSWaveFuser: A Multi-Scale Wavelet Feature Fusion Network for Lithium Battery St
 
 ## Multi-Level Adaptive Fusion (MLAF) module structure diagram.
 
-![](D:\小论文\MSWaveFuser\figures\MLAF.png)
+![](https://github.com/youshi666/MSWaveFuser/blob/main/figures/MLAF.png?raw=true)
 
 ## Wavelet-Hierarchical Patch Mixer(WHP-Mixer) module structure diagram.
 
-![](D:\小论文\MSWaveFuser\figures\WHP-Mixer.png)
+![](https://github.com/youshi666/MSWaveFuser/blob/main/figures/WHP-Mixer.png?raw=true)
 
 ## Multi-Scale Convolution Block(MSCBlock)
 
-![](D:\小论文\MSWaveFuser\figures\MSCBlock.png)
+![](https://github.com/youshi666/MSWaveFuser/blob/main/figures/MSCBlock.png?raw=true)
 
 # Dataset
 
